@@ -20,6 +20,15 @@ namespace Web_Application.Controllers
 
         public IActionResult Index()
         {
+            #region Calls site map
+
+            ViewData["Location"] = "Painel do cliente";
+            ViewData["Entity"] = "Clientes";
+            ViewData["Text"] = "Lista de clientes";
+            ViewData["Callback"] = "/CustomerRegistration"; 
+
+            #endregion
+
             return View();
         }
 
