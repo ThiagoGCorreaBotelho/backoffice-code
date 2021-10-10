@@ -1,20 +1,15 @@
-﻿ <!-- Rendering the site map -->
-<div class="content-header">
-    <div class="container-fluid">
-        <div class="row mb-2">
-            <div class="col-sm-6">
-                <h1 class="m-0">Dashboard v2</h1>
-            </div>
-            <div class="col-sm-6">
-                <ol class="breadcrumb float-sm-right">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active">Dashboard v2</li>
-                </ol>
-            </div>
-        </div>
-    </div>
-</div>
+﻿
+@{ 
+    ViewData["Title"] = "Painel";
+    var location = ViewData["Location"];
+    var entity = ViewData["Entity"];
+    var text = ViewData["Text"];
+    var callback = ViewData["Callback"]; 
+}
 
+
+<!-- Rendering the site map -->
+@await Component.InvokeAsync("VcSiteMap", new { location = location, entity = entity, text = text, callback = callback })
 
 <!-- Dashboard -->
 <section class="content">
@@ -43,7 +38,7 @@
                     </div>
                 </div>
             </div>
-           
+
             <div class="clearfix hidden-md-up"></div>
 
             <div class="col-12 col-sm-6 col-md-3">
@@ -179,8 +174,8 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
-        
+
     </div>
 </section>
