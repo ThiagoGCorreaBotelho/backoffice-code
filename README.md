@@ -12,7 +12,8 @@
 
  ------------
 **Architecture flowchart:**
-![Arquitetura de software (1)](https://user-images.githubusercontent.com/62994992/136675759-a2c3f80d-f1eb-40fd-9e2d-f6eec02a0ba1.png)
+
+![Arquitetura DDD drawio (1)](https://user-images.githubusercontent.com/62994992/136984045-62913418-437f-44f0-9064-01605346c6a7.png)
 
 
 ------------
