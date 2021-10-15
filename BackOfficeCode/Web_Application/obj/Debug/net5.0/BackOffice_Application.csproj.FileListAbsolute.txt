@@ -1,3 +1,4 @@
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\appsettings.Development.json
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\appsettings.json
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\BackOffice_Application.StaticWebAssets.xml
@@ -356,10 +357,11 @@ C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debu
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\Domain.dll
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\bin\Debug\net5.0\Domain.pdb
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\BackOffice_Application.csproj.AssemblyReference.cache
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\BackOffice_Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\BackOffice_Application.AssemblyInfoInputs.cache
@@ -378,6 +380,10 @@ C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debu
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcFooter\Default.cshtml.g.cs
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcHeader\Default.cshtml.g.cs
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcMenu\Default.cshtml.g.cs
+C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcSiteMap\Default.cshtml.g.cs
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
@@ -392,5 +398,3 @@ C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debu
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\ref\BackOffice_Application.dll
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\BackOffice_Application.pdb
 C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\BackOffice_Application.genruntimeconfig.cache
-C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcMenu\Default.cshtml.g.cs
-C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\obj\Debug\net5.0\Razor\Views\Shared\Components\VcHeader\Default.cshtml.g.cs

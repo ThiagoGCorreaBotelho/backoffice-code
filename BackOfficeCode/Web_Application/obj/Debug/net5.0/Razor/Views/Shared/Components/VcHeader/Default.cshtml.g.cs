@@ -26,8 +26,15 @@ using Web_Application.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\Views\_ViewImports.cshtml"
+using Domain.Models.Settings;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0b372d842499fe3b35c957b86153f1f67bdc97db", @"/Views/Shared/Components/VcHeader/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89a0ed7d0604160a70964b4f6094bf8e0978a195", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ec7a51b1d24391c3807fe68ede7cee98df45cced", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_VcHeader_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("form-inline"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -69,7 +76,7 @@ using Web_Application.Models;
         </a>
         <div class=""navbar-search-block"">
             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b372d842499fe3b35c957b86153f1f67bdc97db4193", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0b372d842499fe3b35c957b86153f1f67bdc97db4402", async() => {
                 WriteLiteral(@"
                 <div class=""input-group input-group-sm"">
                     <input class=""form-control form-control-navbar"" type=""search"" placeholder=""Search"" aria-label=""Search"">

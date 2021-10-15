@@ -26,8 +26,15 @@ using Web_Application.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Projetos\Thiago\BackOffice\backoffice\BackOfficeCode\Web_Application\Views\_ViewImports.cshtml"
+using Domain.Models.Settings;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6efeadf0b7eb94579d3e99c727895b9282ac3287", @"/Views/Shared/Components/VcMenu/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"89a0ed7d0604160a70964b4f6094bf8e0978a195", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ec7a51b1d24391c3807fe68ede7cee98df45cced", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_VcMenu_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
